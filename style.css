@@ -30,6 +30,14 @@ body {
     font-weight: 700;
     
 }
+.section-desc{
+    text-align: center;
+    color: grey;
+    
+        font-size: 18px;
+     
+
+}
 /* nav related styles */
 nav{
    display: flex;
@@ -108,15 +116,6 @@ width: 800px;
     background-color: pink;
     margin: 130px 0;
  }
- 
- .section-desc{
-     text-align: center;
-     color: grey;
-     
-         font-size: 18px;
-      
- 
- }
  .about-details{
     display: flex;
     justify-content: space-around;
@@ -124,4 +123,7 @@ width: 800px;
  }
  .about-in{
     text-align: center;
+ }
+ #what-i-do{
+    padding: 30px 150px;
  }
