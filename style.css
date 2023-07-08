@@ -97,19 +97,31 @@ width: 800px;
     max-width: 500px;
 }
 /* main section style */
-.section{
-   padding: 130px;
-   border-radius: 2px;
-   background-color: pink;
-   margin: 130px 0;
-}
-
-.section-desc{
-    text-align: center;
-    color: grey;
-    
-        font-size: 18px;
-     
-
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
 }
 /* about section style */
+.section{
+    padding: 130px;
+    border-radius: 2px;
+    background-color: pink;
+    margin: 130px 0;
+ }
+ 
+ .section-desc{
+     text-align: center;
+     color: grey;
+     
+         font-size: 18px;
+      
+ 
+ }
+ .about-details{
+    display: flex;
+    justify-content: space-around;
+   
+ }
+ .about-in{
+    text-align: center;
+ }
