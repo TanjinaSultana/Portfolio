@@ -183,4 +183,27 @@ font-size: 25px;
     background-color: bisque;
     margin-top: 100px;
     padding: 130px 200px;
+    gap: 100px;
  }
+ .end{
+    width: 50%;
+ }
+ .contact{
+    margin-top: 20px;
+ }
+ .contact input[type="text"],input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    align-items: center;
+    padding: 18px 35px;
+    color: #757575;
+    background-color: white;
+    border-radius: 5px;
+    border: 0;
+    width: 100%;
+
+ }
+.social-links{
+    margin-right: 50px;
+
+}
